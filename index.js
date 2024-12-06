@@ -13,8 +13,8 @@ const recipeRouter = require("./routes/recipe")
 
 app.use("/recipe", recipeRouter)
 
-app.use("/", ()=>{
-    resizeBy.status(200).json({
+app.use("/", (req, res)=>{
+    res.status(200).json({
         success: true,
         message: "Recipe Organiser sever is up..."
     })
