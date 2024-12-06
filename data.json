@@ -1,0 +1,105 @@
+[
+    {
+        "cuisine": "Italian",
+        "name": "Classic Spaghetti Bolognese",
+        "imageURL": "https://res.cloudinary.com/dooxbo8sg/image/upload/v1733466606/Recipe%20Organiser/Spaghetti-Bolognese.jpg",
+        "ingredients": [
+            "2 tbsp olive oil",
+            "400g/14oz beef mince",
+            "1 onion, diced",
+            "2 garlic cloves, chopped",
+            "100g/3½oz carrot, grated",
+            "2 x 400g tins chopped tomatoes",
+            "400ml/14fl oz stock (made from stock cube. Ideally beef, but any will do)",
+            "400g/14oz dried spaghetti",
+            "salt and pepper"
+        ],
+        "instructions": [
+            "Heat oil in a large pot or deep skillet over medium high heat. Add onion and garlic, cook for 3 minutes or until light golden and softened.",
+            "Turn heat up to high and add beef. Cook, breaking it up as your go, until browned.",
+            "Add red wine. Bring to simmer and cook for 1 minute, scraping the bottom of the pot, until the alcohol smell is gone.",
+            "Taste and add more salt it desired. Serve over spaghetti – though if you have the time, I recommend tossing the sauce and pasta per steps below.",
+            "Divide between bowls. Garnish with parmesan and parsley if desired."
+        ]
+    },
+    {
+        "cuisine": "Indian",
+        "name": "Chicken Curry",
+        "imageURL": "https://res.cloudinary.com/dooxbo8sg/image/upload/v1733466749/Recipe%20Organiser/chicken-curry-11-768x1152_x2mfi9.jpg",
+        "ingredients": [
+            "1 1/2 tbsp olive oil",
+            "1 small onion, chopped",
+            "2 cloves garlic, minced",
+            "3 tablespoons curry powder",
+            "1 teaspoon ground cinnamon",
+            "1 teaspoon paprika",
+            "1 bay leaf",
+            "½ teaspoon grated fresh ginger root",
+            "½ teaspoon white sugar",
+            "salt to taste",
+            "2 skinless, boneless chicken breast halves - cut into bite-size pieces",
+            "1 tablespoon tomato paste",
+            "1 cup plain yogurt",
+            "¾ cup coconut milk",
+            "½ lemon, juiced",
+            "½ teaspoon cayenne pepper"
+        ],
+        "instructions": [
+            "Heat olive oil in a skillet over medium heat. Sauté onion until lightly browned.",
+            "Stir in garlic, curry powder, cinnamon, paprika, bay leaf, ginger, sugar, and salt. Continue stirring for 2 minutes.",
+            "Add chicken pieces, tomato paste, yogurt, and coconut milk. Bring to a boil, reduce heat, and simmer for 20 to 25 minutes.",
+            "Remove bay leaf, and stir in lemon juice and cayenne pepper. Simmer 5 more minutes.",
+            "Serve hot and enjoy!"
+        ]
+    },
+    {
+        "cuisine": "Italian",
+        "name": "Caprese Salad",
+        "imageURL": "https://res.cloudinary.com/dooxbo8sg/image/upload/v1733466851/Recipe%20Organiser/Caprese-Salad-6-1024x1536_ywwvdf.jpg",
+        "ingredients": [
+            "220 g/7oz bocconcini / baby or cherry mozzarella",
+            "500 g / 1 lb cherry or grape tomatoes",
+            "1/2 cup basil leaves",
+            "Balsamic glaze / reduction",
+            "1 small garlic clove",
+            "1/2 tsp Dijon mustard",
+            "2.5 tbsp extra virgin olive oil",
+            "1/2 tsp salt",
+            "Black pepper"
+        ],
+        "instructions": [
+            "Place Dressing ingredients in a jar and shake very well. Adjust to taste.",
+            "Place tomatoes, bocconcini and most of the basil in a bowl. Drizzle over dressing, toss gently.",
+            "Transfer to shallow serving bowl. Just before serving, drizzle with balsamic glaze and sprinkle with remaining basil.",
+            "Serve immediately."
+        ]
+    },
+    {
+        "cuisine": "Italian",
+        "name": "Beef Stir-Fry",
+        "imageURL": "https://res.cloudinary.com/dooxbo8sg/image/upload/v1733467034/Recipe%20Organiser/beef_stir_fry-4_qc6zx4.webp",
+        "ingredients": [
+            "2 garlic cloves",
+            "1 1/2 tbsp olive oil",
+            "1 onion",
+            "1 lb / 500g beef mince (ground beef)",
+            "1/2 cup (125 ml) dry red wine",
+            "2 beef bouillon cubes",
+            "800g / 28 oz can crushed tomato",
+            "2 tbsp tomato paste",
+            "2 tsp white sugar",
+            "2 tsp Worcestershire sauce",
+            "2 dried bay leaves",
+            "2 sprigs fresh thyme",
+            "3/4 tsp cooking salt (kosher salt)",
+            "1/2 tsp black pepper"
+        ],
+        "instructions": [
+            "Place Dressing ingredients in a jar and shake very well. Adjust to taste.",
+            "Heat vegetable oil in a large wok or skillet over medium-high heat; cook and stir beef until browned, 3 to 4 minutes.",
+            "Place tomatoes, bocconcini and most of the basil in a bowl. Drizzle over dressing, toss gently.",
+            "Transfer to shallow serving bowl. Just before serving, drizzle with balsamic glaze and sprinkle with remaining basil.",
+            "Serve immediately."
+        ]
+    }
+]
