@@ -1,9 +1,9 @@
-const { measureMemory } = require("vm")
+
 const RecipeModel = require("../models/recipe")
 const fs = require("fs")
 
-const recipe = fs.readFileSync("data.json", "utf-8")
-const recipeData = JSON.parse(recipe)
+// const recipe = fs.readFileSync("data.json", "utf-8")
+// const recipeData = JSON.parse(recipe)
 
 exports.createRecipe = async (req, res) => {
     // console.log("uploading files");
