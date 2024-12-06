@@ -10,7 +10,6 @@ exports.createRecipe = async (req, res) => {
 
     try {
         const { cuisine, name, imageURL, ingredients, instructions } = req.body
-console.log(cuisine, name, imageURL, ingredients, instructions );
 
         if (!cuisine || !name || !imageURL || ingredients.length == 0 || instructions.length == 0) {
             return res.status(400).json({
