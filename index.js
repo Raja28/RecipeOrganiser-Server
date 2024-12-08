@@ -3,7 +3,12 @@ const app = express()
 app.use(express.json())
 const cors = require("cors")
 const { connectDB } = require("./config/database")
-app.use(cors())
+
+app.use(cors({
+    origin: "*",
+    credentials: true
+}))
+
 require("dotenv").config()
 
 connectDB()
@@ -13,7 +18,7 @@ const recipeRouter = require("./routes/recipe")
 
 app.use("/recipe", recipeRouter)
 
-app.use("/", (req, res)=>{
+app.use("/", (req, res) => {
     res.status(200).json({
         success: true,
         message: "Recipe Organiser sever is up..."
