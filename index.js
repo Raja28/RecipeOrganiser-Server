@@ -21,7 +21,7 @@ app.use("/recipe", recipeRouter)
 app.use("/", (req, res) => {
     res.status(200).json({
         success: true,
-        message: "Recipe Organiser sever is up..."
+        message: "Recipe Organiser server is up..."
     })
 })
 
